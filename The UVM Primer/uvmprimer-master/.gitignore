@@ -1,0 +1,5 @@
+*.ucdb
+*.wlf
+work
+transcript
+*.code-workspace
